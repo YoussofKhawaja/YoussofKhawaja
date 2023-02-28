@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Game<br>👯 I’m looking to collaborate on ANYTHING<br>🤝 I’m looking for help with NOTHING<br>🌱 I’m currently learning cpp<br>💬 Ask me about .Net related
+🔭 I’m currently working on Game<br> 🌱 I’m currently learning cpp<br>
 
 
 ## 🌐 Socials:
