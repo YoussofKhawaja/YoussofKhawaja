@@ -2,7 +2,7 @@
 DevOps engineer, passionate about optimizing software delivery. Experienced in seamless development and operations integration. Let's build exceptional solutions together!
 
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Youssofkhawaja) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/youssofkhawaja)
 
