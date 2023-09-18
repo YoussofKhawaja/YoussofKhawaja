@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 DevOps engineer, passionate about optimizing software delivery. Experienced in seamless development and operations integration. Let's build exceptional solutions together!
 
 
